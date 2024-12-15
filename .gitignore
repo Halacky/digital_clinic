@@ -1,0 +1,4 @@
+weight/yolo11m-cls.pt
+sign_translator/runs/
+sign_translator/sign_env/
+dataset/eng_alphabet/
